@@ -1,0 +1,6 @@
+pypeg2 (2.15.2-1) UNRELEASED; urgency=low
+
+  * Initial release. (Closes: #XXXXXX)
+  * Fix setup.py to not install examples to /usr/bin 
+
+ -- Fritz Reichwald <mail@fritzreichwald.de>  Fri, 09 Oct 2015 00:40:21 +0200

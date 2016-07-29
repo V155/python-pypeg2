@@ -1,0 +1,17 @@
+6ba4edee64604f7fa610c12812d70582  usr/lib/python3/dist-packages/pyPEG2-2.15.2.egg-info
+7450754a7ae7b314e3ef7d58fccf806c  usr/lib/python3/dist-packages/pypeg2/__init__.py
+d41d8cd98f00b204e9800998ecf8427e  usr/lib/python3/dist-packages/pypeg2/test/__init__.py
+98b48b35e560d10619eeea67437cf385  usr/lib/python3/dist-packages/pypeg2/test/test_pyPEG2.py
+05c72cbc87f70147dd713f1e65a10df2  usr/lib/python3/dist-packages/pypeg2/test/test_xmlast.py
+9d9db626dc58b91a86ae163911408ff4  usr/lib/python3/dist-packages/pypeg2/xmlast.py
+4e69a11ff5c297f706e9b0a6abfe7022  usr/share/doc-base/python3-pypeg2
+81694d25dccf506098b95743dedc8a22  usr/share/doc/python3-pypeg2/changelog.Debian.gz
+b88a74ebd64c20e2f9855949432ec658  usr/share/doc/python3-pypeg2/changelog.gz
+65aab5d92acae94c48f8a4398efdb4b6  usr/share/doc/python3-pypeg2/copyright
+b05c2b68586e35d6c32e7aa60e38d6c9  usr/share/doc/python3-pypeg2/examples/sample1.py
+6bfee2d0d4fd55e9988810b58efc0394  usr/share/doc/python3-pypeg2/examples/sample2.py
+a639d6d8df943c64a7b73f65abdf1de9  usr/share/doc/python3-pypeg2/html/format.css
+b1de409d0a5116d62ade08bb765d3b34  usr/share/doc/python3-pypeg2/html/grammar_elements.html
+46c027014ad2d6a064ec0a004965806f  usr/share/doc/python3-pypeg2/html/index.html
+34f4eb5c4adeee0c2a29a21137c70620  usr/share/doc/python3-pypeg2/html/parser_engine.html
+bdcd15988953e2fc6b03ca0e8f47a75c  usr/share/doc/python3-pypeg2/html/xml_backend.html
